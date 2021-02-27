@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         // ana added method D
 
+        // tests on requirement 10
+
 
     }
 }
